@@ -1,0 +1,1 @@
+# Learning Spring Framework 6 + Springboot 3 + Spring JPA + Spring MVC + Java 21 through a series of exercises
