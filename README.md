@@ -1,1 +1,1 @@
-# Learning Spring Framework 6 + Springboot 3 + Spring JPA + Spring MVC + Java 21 through a series of exercises
+# Learning Spring Framework 6 + Springboot 3 + Spring JPA + Spring MVC + Java 21 through a series of exercises and following along with the course of https://www.udemy.com/course/spring-framework-6-beginner-to-guru/?referralCode=2BD0B7B7B6B511D699A9&couponCode=CPSALEBRAND24
